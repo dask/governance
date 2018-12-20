@@ -31,6 +31,9 @@ Examples of unacceptable behavior by participants include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+This list is not meant to be exhaustive, but merely to enumerate some common
+kinds of behaviors.
+
 ## Our Responsibilities
 
 Project maintainers are responsible for clarifying the standards of acceptable

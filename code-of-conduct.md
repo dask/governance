@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Dask Code of Conduct
 
 ## Our Pledge
 

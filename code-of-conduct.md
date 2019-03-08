@@ -57,7 +57,8 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at daskdevelopers+conduct@gmail.com. All
+reported by contacting the project team at dask-conduct@googlegroups.com or by
+filling out [this form](https://goo.gl/forms/YHc1pc9POZRH7RDt2). All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.

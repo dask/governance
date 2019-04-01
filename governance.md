@@ -4,46 +4,41 @@ The official version of this document, along with a list of
 individuals and institutions in the roles defined in the governance
 section below, is contained in The Project Governance Repository at:
 
-[https://github.com/jupyter/governance](https://github.com/jupyter/governance)
+[https://github.com/dask/governance](https://github.com/dask/governance)
 
 The Project
 ===========
 
-The Jupyter/IPython Project (The Project) is an open source software project
-affiliated with the 501c3 NumFOCUS Foundation. The goal of The Project is to
-develop open source software and deploy open and public websites and services
-for reproducible, exploratory and interactive computing. The Software developed
+The Dask Project (The Project) is an open source software project.
+The goal of The Project is to
+develop open source software and enable parallel computing within the PyData
+software ecosystem.  The Software developed
 by The Project is released under the BSD (or similar) open source license,
 developed openly and hosted in public GitHub repositories under the
-[IPython GitHub organization](https://github.com/ipython) and the
-[Jupyter GitHub organization](https://github.com/jupyter). Examples of
-Project Software include the IPython Notebook, the IPython Terminal,
-IPython.parallel, the Jupyter Hub, etc. The Services run by the
+[Dask GitHub organization](https://github.com/dask). Examples of
+Project Software include the Dask core library, Dask Array, Dask DataFrame, the
+Dask distributed scheduler, libraries to deploy Dask on various resource
+managers, and some extensions to other domains like machine learning.
+The Services run by the
 Project consist of public websites and web-services that are hosted
-under the jupyter.org or ipython.org domains. The Services Examples of
-Project Services include the Jupyter and IPython websites
-([https://jupyter.org](https://jupyter.org) and
-[https://ipython.org](https://ipython.org)), nbviewer
-([https://nbviewer.ipython.org](https://nbviewer.ipython.org)) and the
-Jupyter coLaboratory
-([https://colaboratory.jupyter.org](https://colaboratory.jupyter.org)).
+under the dask.org domain.
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
-documentation, designs or other work to one or more Project repositories.
+documentation, designs, user support, or other work to one or more Project repositories.
 Anyone can be a Contributor. Contributors can be affiliated with any legal
 entity or none. Contributors participate in the project by submitting,
 reviewing and discussing GitHub Pull Requests and Issues and participating in
-open and public Project discussions on GitHub, Google+, Hackpad, Gitter chat
-rooms and mailing lists. The foundation of Project participation is openness
+open and public Project discussions on GitHub, Stack Overflow, Gitter chat
+rooms, and mailing lists. The foundation of Project participation is openness
 and transparency.
 
-Here is a list of the current Contributors to the main IPython repository:
+Here is a list of some code Contributors to the main Dask repository:
 
-[https://github.com/ipython/ipython/graphs/contributors](https://github.com/ipython/ipython/graphs/contributors)
+[https://github.com/dask/dask/graphs/contributors](https://github.com/dask/dask/graphs/contributors)
 
-There are also many other Contributors listed in the logs of other repositories of
-the Jupyter and IPython projects.
+There are also many other Contributors listed in the logs of the various dask
+projects available at [github.com/dask](https://github.com/dask).
 
 The Project Community consists of all Contributors and Users of the Project.
 Contributors work on behalf of and are responsible to the larger Project
@@ -57,6 +52,7 @@ manage project donations and acts as a parent legal entity. NumFOCUS is the
 only legal entity that has a formal relationship with the project (see
 Institutional Partners section below).
 
+
 Governance
 ==========
 
@@ -68,10 +64,10 @@ The foundations of Project governance are:
 -   Active Contribution
 -   Institutional Neutrality
 
-Traditionally, Project leadership was provided by a BDFL (Fernando Perez) and
-subset of Contributors, called Core Developers, whose active and consistent
-contributions have been recognized by their receiving “commit rights” to the
-Project GitHub repositories. In general all Project decisions are made through
+Traditionally, Project leadership was provided by a BDFL (Matthew Rocklin) and
+a subset of Contributors, called Core Developers, whose active and consistent
+contributions have been recognized by their receiving ownership rights over the
+GitHub organization. In general all Project decisions are made through
 consensus among the Core Developers with input from the Community. The BDFL
 can, but rarely chooses to, override the Core Developers and make a final
 decision on a matter.
@@ -83,31 +79,33 @@ will consist of a BDFL and Steering Council. We view this governance model as
 the formalization of what we are already doing, rather than a change in
 direction.
 
+
 BDFL
 ----
 
 The Project will have a BDFL (Benevolent Dictator for Life), who is currently
-Fernando Perez. As Dictator, the BDFL has the authority to make all final
+Matthew Rocklin. As Dictator, the BDFL has the authority to make all final
 decisions for The Project. As Benevolent, the BDFL, in practice chooses to
 defer that authority to the consensus of the community discussion channels and
 the Steering Council (see below). It is expected, and in the past has been the
-case, that the BDFL will only rarely assert his/her final authority. Because
+case, that the BDFL will only rarely assert theirfinal authority. Because
 rarely used, we refer to BDFL’s final authority as a “special” or “overriding”
 vote. When it does occur, the BDFL override typically happens in situations
 where there is a deadlock in the Steering Council or if the Steering Council
 asks the BDFL to make a decision on a specific matter. To ensure the
 benevolence of the BDFL, The Project encourages others to fork the project if
 they disagree with the overall direction the BDFL is taking. The BDFL is chair
-of the Steering Council (see below) and may delegate his/her authority on a
-particular decision or set of decisions to any other Council member at his/her
+of the Steering Council (see below) and may delegate their authority on a
+particular decision or set of decisions to any other Council member at their
 discretion.
 
-The BDFL can appointing his/her successor, but it is expected that the Steering
+The BDFL can appointing their successor, but it is expected that the Steering
 Council would be consulted on this decision. If the BDFL is unable to appoint a
 successor, the Steering Council will make a suggestion or suggestions to the
 Main NumFOCUS Board. While the Steering Council and Main NumFOCUS Board will
 work together closely on the BDFL selection process, the Main NUMFOCUS Board
 will make the final decision.
+
 
 Steering Council
 ----------------
@@ -150,8 +148,8 @@ quality and quantity, and sustained over at least one year. Potential Council
 Members are nominated by existing Council members and voted upon by the
 existing Council after asking if the potential Member is interested and willing
 to serve in that capacity. The Council will be initially formed from the set of
-existing Core Developers who, as of late 2014, have been significantly active
-over the last year.
+existing Core Developers who, as of 2019, have ownership rights over the
+organization.
 
 When considering potential Members, the Council will look at candidates with a
 comprehensive view of their contributions. This will include but is not limited
@@ -277,7 +275,7 @@ of their official duties. To state this another way, the only way for
 an Institutional Partner to influence the project is by actively
 contributing to the open development of the project, on equal terms
 with any other member of the community of Contributors and Council
-Members. Merely using Jupyter/IPython Software or Services in an
+Members. Merely using Dask Software or Services in an
 institutional context does not allow an entity to become an
 Institutional Partner. Financial gifts do not enable an entity to
 become an Institutional Partner. Once an institution becomes eligible
@@ -295,10 +293,10 @@ building proprietary products and services that leverage Project Software and
 Services. Funding acquired by Institutional Partners to work on The Project is
 called Institutional Funding. However, no funding obtained by an Institutional
 Partner can override The Project BDFL and Steering Council. If a Partner has
-funding to do Jupyter/IPython work and the Council decides to not pursue that
+funding to do Dask work and the Council decides to not pursue that
 work as a project, the Partner is free to pursue it on their own. However in
 this situation, that part of the Partner’s work will not be under the
-Jupyter/IPython umbrella and cannot use the Project trademarks in a way that
+Dask umbrella and cannot use the Project trademarks in a way that
 suggests a formal relationship.
 
 To acknowledge institutional contributions, there are two level of Institutional
@@ -306,23 +304,23 @@ Partners, with associated benefits:
 
 **Tier 1** = an institution with at least one Institutional Council Member
 
--   Acknowledged on the Jupyter/IPython websites, in talks and T-shirts.
--   Ability to acknowledge their own funding sources on the Jupyter/IPython
+-   Acknowledged on the Dask websites, in talks and T-shirts.
+-   Ability to acknowledge their own funding sources on the Dask
     websites, in talks and T-shirts.
 -   Unlimited participation in the annual Institutional Partners Workshop, held
-    during the (planned) annual Jupyter Project Retreat. This allows the
+    during the (planned) annual Dask Project Retreat. This allows the
     Institutional Partner to invite as many of their own employees and funding
     sources and collaborators as they want, even if they are not project
     Contributors or Council Members.
 -   Ability to influence the project through the participation of their Council
     Member.
--   Council Members are invited to the bi-annual Jupyter/IPython Developer Meeting.
+-   Council Members are invited to the bi-annual Dask Developer Meeting.
 
 **Tier 2** = an institution with at least one Institutional Contributor
 
 -   Same benefits as Tier 1 level Partners, but:
 -   Only Institutional Contributors are invited to the Institutional Partners
-    Workshop and bi-annual Jupyter/IPython Developer Meeting.
+    Workshop and bi-annual Dask Developer Meeting.
 
 
 Changing the Governance Documents
@@ -330,7 +328,7 @@ Changing the Governance Documents
 
 Changes to the governance documents are submitted via a GitHub pull
 request to The Project's governance documents GitHub repository at
-[https://github.com/jupyter/governance](https://github.com/jupyter/governance).
+[https://github.com/dask/governance](https://github.com/dask/governance).
 The pull request is then refined in response to public comment and
 review, with the goal being consensus in the community.  After this
 open period, a Steering Council Member proposes to the Steering

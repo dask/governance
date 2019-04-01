@@ -75,7 +75,7 @@ decision on a matter.
 While this approach has served us well, as the Project grows and faces more
 legal and financial decisions and interacts with other institutions, we see a
 need for a more formal governance model. Moving forward The Project leadership
-will consist of a BDFL and Steering Council. We view this governance model as
+will consist of a Steering Council and BDFL. We view this governance model as
 the formalization of what we are already doing, rather than a change in
 direction.
 
@@ -181,7 +181,7 @@ attempts at communication and conflict resolution have failed.
 
 ### Conflict of interest
 
-It is expected that the BDFL and Council Members will be employed at a wide
+It is expected that the Council Members and BDFL will be employed at a wide
 range of companies, universities and non-profit organizations. Because of this,
 it is possible that Members will have conflict of interests. Such conflict of
 interests include, but are not limited to:
@@ -251,7 +251,7 @@ interactions with NumFOCUS.
 Institutional Partners and Funding
 ==================================
 
-The BDFL and Steering Council are the primary leadership for the project. No
+The Steering Council and BDFL are the primary leadership for the project. No
 outside institution, individual or legal entity has the ability to own,
 control, usurp or influence the project other than by participating in the
 Project as Contributors and Council Members.  However, it is important to
@@ -279,7 +279,7 @@ raising money from private foundations and donors or a for-profit company
 building proprietary products and services that leverage Project Software and
 Services. Funding acquired by Institutional Partners to work on The Project is
 called Institutional Funding. However, no funding obtained by an Institutional
-Partner can override The Project BDFL and Steering Council. If a Partner has
+Partner can override The Project Steering Council and BDFL. If a Partner has
 funding to do Dask work and the Council decides to not pursue that work as a
 project, the Partner is free to pursue it on their own. However in this
 situation, that part of the Partner’s work will not be under the Dask umbrella

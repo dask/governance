@@ -54,14 +54,22 @@ address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
-## Enforcement
+## Reporting & Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at dask-conduct@googlegroups.com or by
-filling out [this form](https://goo.gl/forms/YHc1pc9POZRH7RDt2). All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
+reported by contacting the Dask Code of Conduct committee at
+dask-conduct@googlegroups.com or by filling out
+[this form](https://goo.gl/forms/YHc1pc9POZRH7RDt2). Currently, the committee
+consists of:
+
+- James Bourbeau
+- Tom Augspurger
+- Matthew Rocklin
+
+All complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The committee is
 obligated to maintain confidentiality with regard to the reporter of an incident.
+In addition, the online form allows you to submit a report anonymously.
 Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good

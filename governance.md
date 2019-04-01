@@ -248,8 +248,11 @@ interactions with NumFOCUS.
     max). This avoids effective majorities resting on one person.
 
 
-Institutional Partners and Funding
-==================================
+Partners and Funding
+====================
+
+Institutional Partners
+----------------------
 
 The Steering Council and BDFL are the primary leadership for the project. No
 outside institution, individual or legal entity has the ability to own,
@@ -295,7 +298,7 @@ We acknowledge Institutional Partners in the following ways:
 
 
 Community Partners
-==================
+------------------
 
 We acknowledge the importance of Community Partners in disseminating the
 Project to external communities.  A Community Partner is a set of individuals
@@ -316,8 +319,8 @@ We acknowledge Community Partners in the following ways:
 -   Inclusion of the Community Partner in Dask planning meetings and workshops
 
 
-Institutional and Community Partner Selection
-=============================================
+Partner Selection
+-----------------
 
 Official Institutional and Community Partners are determined by the Steering
 Council and BDFL guided by the criteria above.

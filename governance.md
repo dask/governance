@@ -254,38 +254,24 @@ Institutional Partners and Funding
 The BDFL and Steering Council are the primary leadership for the project. No
 outside institution, individual or legal entity has the ability to own,
 control, usurp or influence the project other than by participating in the
-Project as Contributors and Council Members. However, because institutions are
-the primary funding mechanism for the project, it is important to formally
-acknowledge institutional participation in the project. These are Institutional
-Partners.
+Project as Contributors and Council Members.  However, it is important to
+recognize Institutional Partners which are critical in funding, disseminating,
+and broadly applying the project to have a positive social impact.
 
-An Institutional Contributor is any individual Project Contributor who
-contributes to the project as part of their official duties at an Institutional
-Partner. Likewise, an Institutional Council Member is any Project Steering
-Council Member who contributes to the project as part of their official duties
-at an Institutional Partner.
+An Institutional Partner is any recognized legal entity that consistently and
+meaningfully supports the development and maintenance of the Project.  This
+support may be in the form of employing Project Contributors, providing
+critical services like community training or infrastructure, or providing
+direct financial support to the Project.  This support must be for the general
+development and maintenance of the Project, and benefit a wide variety of users
+of the Project.  This support must be substantial and sustained, accounting for
+the employment of the equivalent of one maintainer, over several months.
+Merely using Dask Software or Services in an institutional context does not
+allow an entity to become an Institutional Partner.
 
-With these definitions, an Institutional Partner is any recognized legal entity
-in the United States or elsewhere that employs at least one Institutional
-Contributor or Institutional Council Member. Institutional Partners can be
-for-profit or non-profit entities.
-
-Institutions become eligible to become an Institutional Partner by
-employing individuals who actively contribute to The Project as part
-of their official duties. To state this another way, the only way for
-an Institutional Partner to influence the project is by actively
-contributing to the open development of the project, on equal terms
-with any other member of the community of Contributors and Council
-Members. Merely using Dask Software or Services in an
-institutional context does not allow an entity to become an
-Institutional Partner. Financial gifts do not enable an entity to
-become an Institutional Partner. Once an institution becomes eligible
-for Institutional Partnership, the Steering Council must nominate and
-approve the Partnership.
-
-If an existing Institutional Partner no longer has a contributing employee,
-they will be given a one-year grace period for other employees to begin
-contributing.
+If the contributions of an existing Institutional Partner reduce below the
+expected level for several months, then they will cease to be an Institutional
+Partner.
 
 An Institutional Partner is free to pursue funding for their work on The
 Project through any legal means. This could involve a non-profit organization
@@ -294,34 +280,47 @@ building proprietary products and services that leverage Project Software and
 Services. Funding acquired by Institutional Partners to work on The Project is
 called Institutional Funding. However, no funding obtained by an Institutional
 Partner can override The Project BDFL and Steering Council. If a Partner has
-funding to do Dask work and the Council decides to not pursue that
-work as a project, the Partner is free to pursue it on their own. However in
-this situation, that part of the Partner’s work will not be under the
-Dask umbrella and cannot use the Project trademarks in a way that
-suggests a formal relationship.
+funding to do Dask work and the Council decides to not pursue that work as a
+project, the Partner is free to pursue it on their own. However in this
+situation, that part of the Partner’s work will not be under the Dask umbrella
+and cannot use the Project trademarks in a way that suggests a formal
+relationship.
 
-To acknowledge institutional contributions, there are two level of Institutional
-Partners, with associated benefits:
+We acknowledge Institutional Partners in the following ways:
 
-**Tier 1** = an institution with at least one Institutional Council Member
-
--   Acknowledged on the Dask websites, in talks and T-shirts.
--   Ability to acknowledge their own funding sources on the Dask
-    websites, in talks and T-shirts.
--   Unlimited participation in the annual Institutional Partners Workshop, held
-    during the (planned) annual Dask Project Retreat. This allows the
-    Institutional Partner to invite as many of their own employees and funding
-    sources and collaborators as they want, even if they are not project
-    Contributors or Council Members.
+-   Public acknowledgement on Dask webpages and other promotional material
+-   Inclusion in Dask planning meetings and workshops
 -   Ability to influence the project through the participation of their Council
     Member.
--   Council Members are invited to the bi-annual Dask Developer Meeting.
 
-**Tier 2** = an institution with at least one Institutional Contributor
 
--   Same benefits as Tier 1 level Partners, but:
--   Only Institutional Contributors are invited to the Institutional Partners
-    Workshop and bi-annual Dask Developer Meeting.
+Community Partners
+==================
+
+We acknowledge the importance of Community Partners in disseminating the
+Project to external communities.  A Community Partner is a set of individuals
+(does not need legal recognition) that effectively supports and communicates
+the needs of an external community in using the Project.  External communities
+might be focused around a specific scientific or social discipline (like
+biology or education), a social grouping (like Russian speakers), or another
+such group that benefits from a collective voice.  Community Partners will have
+demonstrated technical expertise in using the Project, as well as social
+expertise in effectively filtering concerns, and questions from their community
+to the Project Contributors.
+
+We acknowledge Community Partners in the following ways:
+
+-   Public acknowledgement of their community on Dask webpages and other
+    promotional material if that community is organized enough to have a
+    central brand.
+-   Inclusion of the Community Partner in Dask planning meetings and workshops
+
+
+Institutional and Community Partner Selection
+=============================================
+
+Official Institutional and Community Partners are determined by the Steering
+Council and BDFL guided by the criteria above.
 
 
 Changing the Governance Documents

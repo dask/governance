@@ -37,7 +37,7 @@ Here is a list of some code Contributors to the main Dask repository:
 
 [https://github.com/dask/dask/graphs/contributors](https://github.com/dask/dask/graphs/contributors)
 
-There are also many other Contributors listed in the logs of the various dask
+There are also many other Contributors listed in the logs of the various Dask
 projects available at [github.com/dask](https://github.com/dask).
 
 The Project Community consists of all Contributors and Users of the Project.
@@ -99,7 +99,7 @@ of the Steering Council (see below) and may delegate their authority on a
 particular decision or set of decisions to any other Council member at their
 discretion.
 
-The BDFL can appointing their successor, but it is expected that the Steering
+The BDFL can appoint their successor, but it is expected that the Steering
 Council would be consulted on this decision. If the BDFL is unable to appoint a
 successor, the Steering Council will make a suggestion or suggestions to the
 Main NumFOCUS Board. While the Steering Council and Main NumFOCUS Board will

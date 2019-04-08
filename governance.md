@@ -218,16 +218,8 @@ should conduct their business in an open and public manner unless privacy is
 specifically called for. Private subcommittee communications should happen on
 the main private mailing list of the Council unless specifically called for.
 
-Question: if the BDFL is not on a subcommittee, do they still have override
-authority?
-
-Suggestion: they do, but they should appoint a delegate who plays that role
-most of the time, and explicit BDFL intervention is sought only if the
-committee disagrees with that delegate’s decision and no resolution is possible
-within the team. This is different from a BDFL delegate for a specific decision
-(or a recusal situation), where the BDFL is literally giving up his/her
-authority to someone else in full. It’s more like what Linus Torvalds uses with his
-“lieutenants” model.
+The BDFL remains override authority over subcommittees, but should typically
+appoint a delegate who plays that role most of the time.
 
 ### NumFOCUS Subcommittee
 

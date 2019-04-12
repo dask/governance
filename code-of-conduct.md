@@ -7,9 +7,8 @@ contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, sex characteristics, gender identity and expression,
 level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation. The following list is
-not meant to be exhaustive, but merely to enumerate some common kinds of
-behaviors.
+appearance, race, religion, sexual identity and orientation, or any other
+personal characteristic.
 
 ## Our Standards
 

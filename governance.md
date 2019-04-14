@@ -162,7 +162,7 @@ over the organization.
 
 If a Council member becomes inactive in the project for a period of one year,
 they will be considered for removal from the Council. Before removal, the
-inactive Member will be approached by the BDFL to see if they plan to return
+inactive Member will be approached to see if they plan to return
 to active participation. If not, they will be removed immediately upon a Council
 vote. If they plan to return to active participation soon, they will be
 given a grace period of one year. If they don’t return to active participation

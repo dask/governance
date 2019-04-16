@@ -9,7 +9,7 @@ Owners
 ------
 
 There is a set of individuals who have ownership privileges over the entire
-GitHub organization.  They have commit rights to all repositories by default
+GitHub organization.  As a result, they have commit rights to all repositories
 and are involved in creating and removing members.  These individuals are
 listed at https://github.com/orgs/dask/people .
 
@@ -26,20 +26,21 @@ Members
 
 New members can be made by any owner if the following criteria are met:
 
-1.  The owner thinks it's a good idea.
-2.  Some other owner employed by a different institution thinks it's a good
-    idea.
-3.  The new member has supported the project several times, either through code
+1.  At least two owners from separate employers agree membership is a good idea
+2.  The new member has supported the project several times, either through code
     or otherwise, and has demonstrated a willingness to help solve other
     people's problems, not just their own.
-4.  The new member demonstrates some degree of familiarity of open source
+3.  The new member demonstrates some degree of familiarity of open source
     practices and online courtesy.
 
-Members can be given write privileges to any repository by an owner by the
+Write privileges
+----------------
+
+Individuals can be given write privileges to any repository by an owner by the
 above conditions and the following:
 
 1.  The lead maintainer of that repository thinks it's a good idea
-2.  The member has demonstrated technical familiarity with git and github (and
+2.  The member has demonstrated technical familiarity with git and GitHub (and
     so, for example, is unlikely to accidentally mess with history or merge PRs
     in an unclean state)
 

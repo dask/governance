@@ -13,7 +13,7 @@ The Dask Project (The Project) is an open source software project.
 The goal of The Project is to
 develop open source software and enable parallel computing within the PyData
 software ecosystem.  The Software developed
-by The Project is released under the BSD (or similar) open source license,
+by The Project is released under the BSD-3-Clause (or similar) open source license,
 developed openly and hosted in public GitHub repositories under the
 [Dask GitHub organization](https://github.com/dask). Examples of
 Project Software include the Dask core library, Dask Array, Dask DataFrame, the

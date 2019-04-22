@@ -143,6 +143,7 @@ In particular, the Council may:
 ### Council membership
 
 To become eligible for being a Steering Council Member an individual should
+meet some of the following criteria:
 
 -  Be a Project Contributor who has produced contributions that are substantial in
 quality and quantity
@@ -199,6 +200,29 @@ interest in a particular issue may participate in Council discussions on that
 issue, but must recuse themselves from voting on the issue. If the BDFL has
 recused his/herself for a particular decision, they will appoint a substitute
 BDFL for that decision.
+
+
+### Voting
+
+In general, the Council makes decisions by lazy consensus with a minimum of
+participation based on the importance of the decisions to be made.
+Conversations happen on public GitHub issues for most cases, and
+through private e-mail for more sensitive issues.
+
+To make a decision the Council discusses the topic, a proposal is made, and a
+suitable wait time occurs for Council members to either agree or veto.
+By consensus we mean that any Council member can veto a decision with
+justification.  By lazy we mean that not all Council members must participate,
+and that absence is interpreted as assent.  By a minimum of participation we
+mean that we require the participation of a certain number of individuals based
+on the importance of the issue; for non-contentious issues a single Council
+member may move forward after a suitable time, while for contentious issues we
+will often require a few, often from different institutions.
+
+The interested reader may wish to also read
+[NumPy governance section](https://docs.scipy.org/doc/numpy/dev/governance/governance.html#consensus-based-decision-making-by-the-community)
+on this topic.
+
 
 ### Private communications of the Council
 

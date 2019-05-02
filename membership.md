@@ -72,7 +72,7 @@ permissions
 
 Any owner may temporarily remove permissions of any non-owner if there is some
 pressing reason to do so, such as insecure credentials.  A consensus of owners
-can remove permissions of anyone long-term
+can remove permissions of anyone long-term.
 
 
 Exception Handling

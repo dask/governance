@@ -11,7 +11,7 @@ The Project
 
 The Dask Project (The Project) is an open source software project.
 The goal of The Project is to
-develop open source software and enable parallel computing within the PyData
+develop open source software and enable parallel computing within the Python
 software ecosystem.  The Software developed
 by The Project is released under the BSD-3-Clause (or similar) open source license,
 developed openly and hosted in public GitHub repositories under the
@@ -23,7 +23,7 @@ The Services run by the
 Project consist of public websites and web-services that are hosted
 under the dask.org domain.
 
-The Project is developed by a team of distributed developers, called
+The Project is developed by a distributed team of developers, called
 Contributors. Contributors are individuals who have contributed code,
 documentation, designs, user support, or other work to one or more Project repositories.
 Anyone can be a Contributor. Contributors can be affiliated with any legal
@@ -103,7 +103,7 @@ The BDFL can appoint their successor, but it is expected that the Steering
 Council would be consulted on this decision. If the BDFL is unable to appoint a
 successor, the Steering Council will make a suggestion or suggestions to the
 Main NumFOCUS Board. While the Steering Council and Main NumFOCUS Board will
-work together closely on the BDFL selection process, the Main NUMFOCUS Board
+work together closely on the BDFL selection process, the Main NumFOCUS Board
 will make the final decision.
 
 
@@ -306,7 +306,7 @@ relationship.
 
 We acknowledge Institutional Partners in the following ways:
 
--   Public acknowledgement on Dask webpages and other promotional material
+-   Public acknowledgement on official webpages and other promotional material
 -   Inclusion in Dask planning meetings and workshops
 -   Ability to influence the project through the participation of their Council
     Member.

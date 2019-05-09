@@ -148,9 +148,13 @@ meet some of the following criteria:
 -  Be a Project Contributor who has produced contributions that are substantial in
 quality and quantity
 -  Sustain this development consistently over several months
--  Support the community through code review, answering user questions,
-   triaging bug reports, participating constructively in broader conversations,
-   and being willing to help with documentation and infrastructure.
+-  Support the community through various activities (some examples below):
+   - code review
+   - answering user questions
+   - triaging bug reports
+   - participating constructively in broader conversations
+   - contributing to documentation
+   - maintaining infrastructure
 -  Demonstrate breadth by supporting the community outside of their particular
    work interests or sub-project
 -  Be civil in public discourse

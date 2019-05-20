@@ -72,7 +72,9 @@ permissions
 
 Any owner may temporarily remove permissions of any non-owner if there is some
 pressing reason to do so, such as insecure credentials.  A consensus of owners
-can remove permissions of anyone long-term.
+can remove permissions of anyone long-term.  We ask that a majority of owners
+respond for quorum, and that those votes come from people employed/associated
+to at least three institutions.
 
 
 Exception Handling

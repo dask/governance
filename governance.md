@@ -251,7 +251,10 @@ specific aspects of the project. Subcommittees are created using the standard
 voting procedure (e.g. lazy consensus). The members of the subcommittee need
 not all be Steering Council Members, but they must have at least one Steering
 Council Member to operate. If the Steering Council Member leaves, the
-subcommittee is automatically and immediately dissolved.
+subcommittee is automatically and immediately dissolved. The subcommittee can
+also be dissolved if they decide to be. The Steering Council is also capable of
+dissolving the subcommittee at their discretion. Dissolution may also be part
+of the subcommittee's scope (e.g. when their task is complete).
 
 When a subcommittee is proposed, it must include an intended scope over which
 that subcommittee will focus. Within that scope the subcommittee is trusted to

@@ -182,7 +182,12 @@ these same conditions.
 
 The Council reserves the right to eject current Members, other than the BDFL,
 if they are deemed to be actively harmful to the project’s well-being, and
-attempts at communication and conflict resolution have failed.
+attempts at communication and conflict resolution have failed. This action
+should not be taken lightly. The proposer must provide overwhelming
+justification as to why this action is needed (e.g. the Member violated the
+Code of Conduct) and not other technical reasons (e.g. we have different
+viewpoints on project direction) or personal reasons (e.g. they belong to a
+competitor's organization).
 
 
 ### Conflict of interest

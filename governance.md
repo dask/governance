@@ -247,13 +247,28 @@ information that should not be posted to the public internet.
 ### Subcommittees
 
 The Council can create subcommittees that provide leadership and guidance for
-specific aspects of the project. Like the Council as a whole, subcommittees
-should conduct their business in an open and public manner unless privacy is
-specifically called for. Private subcommittee communications should happen on
-the main private mailing list of the Council unless specifically called for.
+specific aspects of the project. Subcommittees are created using the standard
+voting procedure (e.g. lazy consensus). The members of the subcommittee need
+not all be Steering Council Members, but they must have at least one Steering
+Council Member to operate. If the Steering Council Member leaves, the
+subcommittee is automatically and immediately dissolved.
+
+When a subcommittee is proposed, it must include an intended scope over which
+that subcommittee will focus. Within that scope the subcommittee is trusted to
+make decisions on behalf of the larger group (through the standard voting
+procedure). Though they are encouraged to check-in with the steering council to
+provide clarity on direction. For items outside of the subcommittee's scope,
+they must defer to the steering council and/or appropriate subcommittee(s) (if
+they exists).
+
+Like the Council as a whole, subcommittees should conduct their business in an
+open and public manner unless privacy is specifically called for. Private
+subcommittee communications should happen on the main private mailing list of
+the Council unless specifically called for.
 
 The BDFL remains override authority over subcommittees, but should typically
-appoint a delegate who plays that role most of the time.
+appoint a delegate who plays that role most of the time. This delegate must
+also be a Steering Council Member.
 
 ### NumFOCUS Subcommittee
 

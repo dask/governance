@@ -187,7 +187,9 @@ should not be taken lightly. The proposer must provide overwhelming
 justification as to why this action is needed (e.g. the Member violated the
 Code of Conduct) and not other technical reasons (e.g. we have different
 viewpoints on project direction) or personal reasons (e.g. they belong to a
-competitor's organization).
+competitor's organization). We ask that a majority of owners respond for
+quorum, and that those votes come from people employed/associated to at least
+three institutions.
 
 
 ### Conflict of interest

@@ -39,7 +39,7 @@ Write privileges
 Individuals can be given write privileges to any repository by an owner by the
 above conditions and the following:
 
-1.  The lead maintainer of that repository thinks it's a good idea
+1.  The maintainer(s) of that repository thinks it's a good idea
 2.  The member has demonstrated technical familiarity with git and GitHub (and
     so, for example, is unlikely to accidentally mess with history or merge PRs
     in an unclean state)

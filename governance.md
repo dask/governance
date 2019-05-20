@@ -112,7 +112,8 @@ Steering Council
 
 The Project will have a Steering Council that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity,
-and sustained over at least one year. The overall role of the Council is to
+and sustained over at least one year. The Steering Council consists of the
+owners of the project organization. The overall role of the Council is to
 ensure, through working with the BDFL and taking input from the Community, the
 long-term well-being of the project, both technically and as a community.
 

@@ -188,7 +188,7 @@ justification as to why this action is needed (e.g. the Member violated the
 Code of Conduct) and not other technical reasons (e.g. we have different
 viewpoints on project direction) or personal reasons (e.g. they belong to a
 competitor's organization). We ask that a majority of owners respond for
-quorum, and that those votes come from people employed/associated to at least
+quorum, and that those votes come from people employed/associated with at least
 three institutions.
 
 
@@ -250,11 +250,11 @@ information that should not be posted to the public internet.
 
 The Council can create subcommittees that provide leadership and guidance for
 specific aspects of the project. Subcommittees are created using the standard
-voting procedure (e.g. lazy consensus). The members of the subcommittee need
+voting procedure (lazy consensus). The members of the subcommittee need
 not all be Steering Council Members, but they must have at least one Steering
 Council Member to operate. If the Steering Council Member leaves, the
 subcommittee is automatically and immediately dissolved. The subcommittee can
-also be dissolved if they decide to be. The Steering Council is also capable of
+also choose to self-dissolve. The Steering Council is also capable of
 dissolving the subcommittee at their discretion. Dissolution may also be part
 of the subcommittee's scope (e.g. when their task is complete).
 
@@ -271,7 +271,7 @@ open and public manner unless privacy is specifically called for. Private
 subcommittee communications should happen on the main private mailing list of
 the Council unless specifically called for.
 
-The BDFL remains override authority over subcommittees, but should typically
+The BDFL retains override authority over subcommittees, but should typically
 appoint a delegate who plays that role most of the time. This delegate must
 also be a Steering Council Member.
 

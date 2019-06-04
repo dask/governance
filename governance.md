@@ -177,7 +177,7 @@ further grace period. All former Council members can be considered for
 membership again at any time in the future, like any other Project Contributor.
 Retired Council members will be listed on the project website, acknowledging
 the period during which they were active in the Council.
-An inactive BDFL may also be ejected by a consensus of current members under
+An inactive BDFL may also be ejected by a vote of current Council members under
 these same conditions.
 
 The Council reserves the right to eject current Members, other than the BDFL,
@@ -187,9 +187,9 @@ should not be taken lightly. The proposer must provide overwhelming
 justification as to why this action is needed (e.g. the Member violated the
 Code of Conduct) and not other technical reasons (e.g. we have different
 viewpoints on project direction) or personal reasons (e.g. they belong to a
-competitor's organization). We ask that a majority of owners respond for
-quorum, and that those votes come from people employed/associated with at least
-three institutions.
+competitor's organization). We ask that a majority of Steering Council members
+respond for quorum, and that those votes come from people employed/associated
+with at least three institutions.
 
 
 ### Conflict of interest

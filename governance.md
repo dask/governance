@@ -102,7 +102,7 @@ discretion.
 The BDFL can appoint their successor, but it is expected that the Steering
 Council would be consulted on this decision. If the BDFL is unable to appoint a
 successor, the Steering Council will make a suggestion or suggestions to the
-Main NumFOCUS Board. While the Steering Council and Main NumFOCUS Board will
+NumFOCUS Board. While the Steering Council and Main NumFOCUS Board will
 work together closely on the BDFL selection process, the Main NumFOCUS Board
 will make the final decision.
 
@@ -278,7 +278,8 @@ also be a Steering Council Member.
 ### NumFOCUS Subcommittee
 
 The Council will maintain one narrowly focused subcommittee to manage its
-interactions with NumFOCUS.
+interactions with NumFOCUS. This is a requirement of fiscal sponsorship by
+NumFOCUS.
 
 -   The NumFOCUS Subcommittee is comprised of 5 persons who manage project
     funding that comes through NumFOCUS. It is expected that these funds will

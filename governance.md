@@ -101,10 +101,7 @@ discretion.
 
 The BDFL can appoint their successor, but it is expected that the Steering
 Council would be consulted on this decision. If the BDFL is unable to appoint a
-successor, the Steering Council will make a suggestion or suggestions to the
-NumFOCUS Board. While the Steering Council and NumFOCUS Board will
-work together closely on the BDFL selection process, the NumFOCUS Board
-will make the final decision.
+successor, the Steering Council will decide on a new BDFL.
 
 
 Steering Council

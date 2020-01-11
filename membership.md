@@ -43,10 +43,11 @@ above conditions and the following:
 2.  The member has demonstrated technical familiarity with git and GitHub (and
     so, for example, is unlikely to accidentally mess with history or merge PRs
     in an unclean state)
+3.  The member has demonstrated a commitment to resolving other peoples' problems
+    and not just their own problems or the problems of their organization.
 
 In the case of the more critical repositories (dask/dask, dask/distributed)
 then at least three owners should agree to give privileges.
-
 
 Teams
 -----

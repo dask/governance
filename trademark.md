@@ -9,7 +9,7 @@ permission is obtained from NumFOCUS.
 
 Usage and modification of the Dask *software* is governed by the
 [license](https://github.com/dask/dask/blob/main/LICENSE.txt), which describes
-permissable behavior under copyright law.  Trademarks are a distinct form of
+permissible behavior under copyright law.  Trademarks are a distinct form of
 intellectual property, and so the guidelines in this document apply only to
 the "Dask" trademark and logo, but not to the software itself.
 
@@ -25,7 +25,7 @@ want the Dask trademark to be used:
 * in a way that allows an entity to misleadingly imply ownership of Dask or
   influence over the Dask project.
 
-Permissable usage
+Permissible usage
 -----------------
 
 The Dask trademark is always subject to "nominative use rules" which allow the
@@ -64,7 +64,7 @@ Where to get more information
 
 If you are unsure whether your planned usage of the Dask trademark is allowed,
 or feel that you need specific written approval for your situation, please
-contact NumFOCUS at *INSERT CONTACT EMAIL HERE*.
+contact the Dask maintainers at info@dask.org.
 
 Acknowledgements
 ----------------

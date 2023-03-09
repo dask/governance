@@ -40,7 +40,7 @@ Open source projects may also use the Dask name as part of the name of their
 project (Ex: `dask-cuda`) so long as it satisfies *all* the following
 criteria:
 
-* The project is open source with a liberal license.
+* The project is open source with an [OSI-approved](https://opensource.org/licenses/) open source license.
 * The project is related to Dask.
 * The project name should not be overly grand in claiming namespace.
 * The project should not make subjective claims in the name itself.

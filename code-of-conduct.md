@@ -31,6 +31,8 @@ Examples of unacceptable behavior by participants include:
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* Publishing spam or other advertising unrelated to Dask or that does not
+  benefit the Dask community
 
 ## Our Responsibilities
 
@@ -64,6 +66,7 @@ consists of:
 - James Bourbeau
 - Tom Augspurger
 - Matthew Rocklin
+- Jacob Tomlinson
 
 All complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The committee is

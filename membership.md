@@ -8,7 +8,7 @@ GitHub organization and commit rights to Dask repositories.
 Owners
 ------
 
-The [Steering Coucil](./governance.md#steering-council) members have ownership
+The [Steering Council](./governance.md#steering-council) members have ownership
 privileges over the entire GitHub organization.  As a result, they have commit
 rights to all repositories and are involved in creating and removing members.
 These individuals are listed at https://github.com/orgs/dask/people.

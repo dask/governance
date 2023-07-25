@@ -192,7 +192,7 @@ When a member leaves the Council due to inactivity they automatically become an
 Emeritus Council Member where they can continue to provide the same expert guidance
 to the community but without the Ownership status on GitHub or any voting rights.
 
-Members that are ejected by council vote for harmful behaviour they will not be given
+Members that are ejected by council vote for harmful behavior will not be given
 this status.
 
 All Emeritus Council members who become active again in the project can request to be

@@ -117,8 +117,8 @@ long-term well-being of the project, both technically and as a community.
 During the everyday project activities, council members participate in all
 discussions, code review and other project activities as peers with all other
 Contributors and the Community. In these everyday activities, Council Members
-do not have any special power or privilege through their membership on the
-Council. However, it is expected that because of the quality and quantity of
+are granted Owner status on GitHub giving them write access to the organization.
+It is expected that because of the quality and quantity of
 their contributions and their expert knowledge of the Project Software and
 Services that Council Members will provide useful guidance, both technical and
 in terms of project direction, to potentially less experienced contributors.
@@ -157,9 +157,11 @@ quality and quantity
    work interests or sub-project
 -  Be civil in public discourse
 
-Potential Council Members are nominated by existing Council members and voted
-upon by the existing Council after asking if the potential Member is interested
-and willing to serve in that capacity. The Council will be initially formed
+Potential Council Members are nominated by existing Council members and made by lazy
+consensus of existing Council Members after asking if the potential Member is interested
+and willing to serve in that capacity. Any -1 vote bars a candidate.  We ask that a
+majority of owners respond for quorum, and that those votes come from people
+employed/associated to at least three institutions. The Council will be initially formed
 from the set of existing Core Developers who, as of 2019, have ownership rights
 over the organization.
 
@@ -170,12 +172,8 @@ to active participation. If not, they will be removed immediately upon a Council
 vote. If they plan to return to active participation soon, they will be
 given a grace period of one year. If they don’t return to active participation
 within that time period they will be removed by vote of the Council without
-further grace period. All former Council members can be considered for
-membership again at any time in the future, like any other Project Contributor.
-Retired Council members will be listed on the project website, acknowledging
-the period during which they were active in the Council.
-An inactive BDFL may also be ejected by a vote of current Council members under
-these same conditions.
+further grace period. An inactive BDFL may also be ejected by a vote of current
+Council members under these same conditions.
 
 The Council reserves the right to eject current Members, other than the BDFL,
 if they are deemed to be actively harmful to the project’s well-being, and
@@ -186,8 +184,23 @@ Code of Conduct) and not other technical reasons (e.g. we have different
 viewpoints on project direction) or personal reasons (e.g. they belong to a
 competitor's organization). We ask that a majority of Steering Council members
 respond for quorum, and that those votes come from people employed/associated
-with at least three institutions.
+with at least two institutions.
 
+### Emeritus council members
+
+When a member leaves the Council due to inactivity they automatically become an
+Emeritus Council Member where they can continue to provide the same expert guidance
+to the community but without the Ownership status on GitHub or any voting rights.
+
+Members that are ejected by council vote for harmful behaviour they will not be given
+this status.
+
+All Emeritus Council members who become active again in the project can request to be
+reinstated to full Council Members. A majority vote of active owners is required to veto
+this reinstatement.
+
+Emeritus Council members will be listed on the project website, acknowledging
+the period during which they were active in the Council.
 
 ### Conflict of interest
 

@@ -161,7 +161,7 @@ Potential Council Members are nominated by existing Council members and made by 
 consensus of existing Council Members after asking if the potential Member is interested
 and willing to serve in that capacity. Any -1 vote bars a candidate.  We ask that a
 majority of owners respond for quorum, and that those votes come from people
-employed/associated to at least three institutions. The Council will be initially formed
+employed/associated to at least two institutions. The Council will be initially formed
 from the set of existing Core Developers who, as of 2019, have ownership rights
 over the organization.
 

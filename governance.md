@@ -84,7 +84,8 @@ BDFL
 ----
 
 The Project will have a BDFL (Benevolent Dictator for Life), who is currently
-Matthew Rocklin. As Dictator, the BDFL has the authority to make all final
+Matthew Rocklin ([@mrocklin](https://github.com/mrocklin)). As Dictator, the 
+BDFL has the authority to make all final
 decisions for The Project. As Benevolent, the BDFL, in practice chooses to
 defer that authority to the consensus of the community discussion channels and
 the Steering Council (see below). It is expected, and in the past has been the
@@ -138,6 +139,15 @@ In particular, the Council may:
 -   Make decisions when regular community discussion doesn’t produce consensus
     on an issue in a reasonable time frame.
 
+Currently, the Steering Council consists of:
+
+-  Matthew Rocklin ([@mrocklin](https://github.com/mrocklin))
+-  Benjamin Zaitlen ([@quasiben](https://github.com/quasiben))
+-  Florian Jetter ([@fjetter](https://github.com/fjetter))
+-  Jacob Tomlinson ([@jacobtomlinson](https://github.com/jacobtomlinson))
+-  James Bourbeau ([@jrbourbeau](https://github.com/jrbourbeau))
+-  Jim Crist-Harif ([@jcrist](https://github.com/jcrist))
+
 ### Council membership
 
 To become eligible for being a Steering Council Member an individual should
@@ -186,7 +196,7 @@ competitor's organization). We ask that a majority of Steering Council members
 respond for quorum, and that those votes come from people employed/associated
 with at least two institutions.
 
-### Emeritus council members
+### Emeritus Council members
 
 When a member leaves the Council due to inactivity they automatically become an
 Emeritus Council Member where they can continue to provide the same expert guidance
@@ -201,6 +211,15 @@ this reinstatement.
 
 Emeritus Council members will be listed on the project website, acknowledging
 the period during which they were active in the Council.
+
+Currently, the Eremitus Council members are:
+- Antoine Pitrou ([@pitrou](https://github.com/pitrou))
+- John Kirkham ([@jakirkham](https://github.com/jakirkham))
+- Julia Signell ([@jsignell](https://github.com/jsignell))
+- Martin Durant ([@martindurant](https://github.com/martindurant))
+- Olivier Grisel ([@ogrisel](https://github.com/ogrisel))
+- Stephan Hoyer ([@shoyer](https://github.com/shoyer))
+- Tom Augspurger ([@TomAugspurger](https://github.com/TomAugspurger))
 
 ### Conflict of interest
 
